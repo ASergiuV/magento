@@ -4,4 +4,23 @@
             <version>0.0.1</version>
         </Evozon_Questions>
     </modules>
+    <global>
+        <models>
+            <evozon_questions>
+                <class>Evozon_Questions_Model</class>
+                <resourceModel>evozon_questions_resource</resourceModel>
+            </evozon_questions>
+            <evozon_questions_resource>
+                <class>Evozon_Questions_Model_Resource</class>
+                <entities>
+                    <question>
+                        <table>evozon_question</table>
+                    </question>
+                    <answer>
+                        <table>evozon_answer</table>
+                    </answer>
+                </entities>
+            </evozon_questions_resource>
+        </models>
+    </global>
 </config>
