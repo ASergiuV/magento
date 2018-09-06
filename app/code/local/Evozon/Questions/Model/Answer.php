@@ -3,6 +3,8 @@
 /**
  * Class Evozon_Questions_Model_Answer
  * @author Georgiana Marian <georgiana.marian@evozon.com>
+ * @category Evozon
+ * @package  Evozon_Questions
  */
 class Evozon_Questions_Model_Answer extends Mage_Core_Model_Abstract
 {
