@@ -6,7 +6,7 @@
  * @package  Evozon_Questions
  *
  */
-class Evozon_Modul_Block_Question extends Mage_Core_Block_Template
+class Evozon_Questions_Block_Question extends Mage_Core_Block_Template
 {
     /**
      * @return string
