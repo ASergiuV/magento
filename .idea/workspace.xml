@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82c4586d-a836-40ec-a3cd-6015f98d2b24" name="Default" comment="" />
+    <list default="true" id="82c4586d-a836-40ec-a3cd-6015f98d2b24" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Question.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="108">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -37,8 +44,8 @@
       <file leaf-file-name="Answer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="108">
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -46,8 +53,8 @@
       <file leaf-file-name="Collection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="108">
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -55,8 +62,8 @@
       <file leaf-file-name="Collection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="108">
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -64,17 +71,17 @@
       <file leaf-file-name="Question.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+            <state relative-caret-position="108">
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Answer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Answer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="252">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -98,13 +105,13 @@
       <list>
         <option value="$PROJECT_DIR$/app/etc/modules/Evozon_Questions.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/evozon/default/etc/theme.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php" />
         <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php" />
       </list>
     </option>
   </component>
@@ -229,73 +236,6 @@
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="blank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="blank" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="evozon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="evozon" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="evozon" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
               <item name="var" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -338,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1702000" />
+    <option name="totallyTimeSpent" value="2127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -475,45 +415,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Answer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="108">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Question.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer/Collection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="108">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Evozon/Questions/Model/Resource/Answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
